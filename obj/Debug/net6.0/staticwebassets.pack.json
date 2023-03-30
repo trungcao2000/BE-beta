@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\CVT\\Desktop\\WebAPI\\WebAPI_SQL\\WebAPI_SQL\\wwwroot\\File\\1\\7867d04d-76f5-4849-82f3-28c9d1b193f7.png",
+      "PackagePath": "staticwebassets\\File\\1\\7867d04d-76f5-4849-82f3-28c9d1b193f7.png"
+    },
+    {
+      "Id": "C:\\Users\\CVT\\Desktop\\WebAPI\\WebAPI_SQL\\WebAPI_SQL\\wwwroot\\Iconfile\\file-earmark-excel.svg",
+      "PackagePath": "staticwebassets\\Iconfile\\file-earmark-excel.svg"
+    },
+    {
+      "Id": "C:\\Users\\CVT\\Desktop\\WebAPI\\WebAPI_SQL\\WebAPI_SQL\\wwwroot\\Iconfile\\file-earmark-image.svg",
+      "PackagePath": "staticwebassets\\Iconfile\\file-earmark-image.svg"
+    },
+    {
+      "Id": "C:\\Users\\CVT\\Desktop\\WebAPI\\WebAPI_SQL\\WebAPI_SQL\\wwwroot\\Iconfile\\file-earmark-pdf.svg",
+      "PackagePath": "staticwebassets\\Iconfile\\file-earmark-pdf.svg"
+    },
+    {
+      "Id": "C:\\Users\\CVT\\Desktop\\WebAPI\\WebAPI_SQL\\WebAPI_SQL\\wwwroot\\Iconfile\\file-earmark-word.svg",
+      "PackagePath": "staticwebassets\\Iconfile\\file-earmark-word.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebAPI_SQL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebAPI_SQL.props",
+      "PackagePath": "build\\WebAPI_SQL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebAPI_SQL.props",
+      "PackagePath": "buildMultiTargeting\\WebAPI_SQL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebAPI_SQL.props",
+      "PackagePath": "buildTransitive\\WebAPI_SQL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
